@@ -31,7 +31,7 @@ You can install the required Python libraries using pip. Use the following comma
 
 ```bash
 pip install pandas numpy scikit-learn xgboost matplotlib seaborn tqdm torch shap
-```basb
+```bash
 
 # RNA-seq Count Data Processing from GEO (GSE114691)
 
