@@ -32,7 +32,7 @@ You can install the required Python libraries using pip. Use the following comma
 ```bash
 pip install pandas numpy scikit-learn xgboost matplotlib seaborn tqdm torch shap
 
-# RNA-seq Count Data Processing from GEO (GSE114691)
+RNA-seq Count Data Processing from GEO (GSE114691)
 
 This R script downloads raw RNA-seq count data from the GEO database, performs basic filtering and transformation, and optionally exports the processed data.
 
